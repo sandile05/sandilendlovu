@@ -7,7 +7,7 @@ I'm a self-taught web developer from South Africa. As a developer, I have a grea
 Skills:  JS / HTML / CSS
 
 - 🔭 I’m currently working on improving my skillset 
-- 🌱 I’m currently learning Ruby on Rails 
+- 🌱 I’m currently learning Bootstrap and React 
 - 😄 Pronouns: He/Him 
 - ⚡ Fun fact: I'm a Manchester United fan 
 
