@@ -1,5 +1,7 @@
 ### Hi there 👋, my name is Sandile
 #### Front-end Developer
+https://github.com/sandile05/sandilendlovu/blob/main/image%20(3).png
+
 I'm a self-taught web developer from South Africa. As a developer, I have a great passion for coding and I'm always on the lookout for new challenges. I love learning about the latest web development technologies and trends, and I strive to improve my skills every day.
 
 Skills:  JS / HTML / CSS
